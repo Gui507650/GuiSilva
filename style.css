@@ -1,10 +1,10 @@
 root{
-    fundo: #48D1CC;
-    cor-frente: #FFFFFF;
-    destaque: #00FFFF;
-    branco: #FFFFFF;
-    preto: #000000;
-
+    --fundo: #008B8B;
+    --cartao-frente: #40E0D0;
+    --cartao-verso:#7FFFD4;
+    --destaque: #2F4F4F;
+    --preto:#000000;
+    --branco: #ffffff;
 }
 
 body{
